@@ -23,7 +23,8 @@ go get github.com/kaneshin/go-hyde/hyde
 ### Command
 
 ```
-$ hyde 1 #=> 156
+$ hyde from 156 #=> 1
+$ hyde to 1 #=> 156
 ```
 
 ### Import
